@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+
+gem 'rspec'
+gem 'cucumber'
+gem 'cucumber-sinatra'
+gem 'sinatra'
+gem 'capybara'
