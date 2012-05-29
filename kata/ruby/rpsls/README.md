@@ -23,18 +23,16 @@ La maquina escoge su eleccion mediante azar.
 * spock vaporiza la piedra
 * y, como siempre fue, piedra aplasta tijera
 
-aqui dos lindos gr‡ficos que muestran lo mismo:
+aqui dos lindos gr&aacute;ficos que muestran lo mismo:
 
 <div style="text-align: center;">
-![](doc/rpslp-1.png)
-
+![](/kata/ruby/rpsls/doc/rpslp-1.png)
 </div>
 <div style="text-align: center;">
-![](doc/rpslp-2.png)
-
+![](/doc/rpslp-2.png)
 </div>
 
 ### Solucion:
 
 La solucion debe ser dada utilizando Ruby como lenguaje, Sinatra como framework web y Cucumber / rspec como frameworks de testing.
-Tene en cuenta que atras tuyo otros van a estar tocando el mismo c—digo, as’ que documenta lo mas que puedas usando tests!!
+Tene en cuenta que atras tuyo otros van a estar tocando el mismo c&oacute;digo, as&iacute; que documenta lo mas que puedas usando tests!!
