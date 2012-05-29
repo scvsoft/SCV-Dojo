@@ -23,15 +23,6 @@ La maquina escoge su eleccion mediante azar.
 * spock vaporiza la piedra
 * y, como siempre fue, piedra aplasta tijera
 
-aqui dos lindos gr&aacute;ficos que muestran lo mismo:
-
-<div style="text-align: center;">
-![](rpslp-1.png)
-</div>
-
-<div style="text-align: center;">
-![](/doc/rpslp-2.png)
-</div>
 
 ### Solucion:
 
