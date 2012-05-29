@@ -26,8 +26,9 @@ La maquina escoge su eleccion mediante azar.
 aqui dos lindos gr&aacute;ficos que muestran lo mismo:
 
 <div style="text-align: center;">
-![](/kata/ruby/rpsls/doc/rpslp-1.png)
+![](rpslp-1.png)
 </div>
+
 <div style="text-align: center;">
 ![](/doc/rpslp-2.png)
 </div>
