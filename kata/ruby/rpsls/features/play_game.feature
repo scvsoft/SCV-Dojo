@@ -4,7 +4,7 @@ Feature: Play individual games
     Given I am on game page
     When I select <player_select>
     And computer select <computer_select>
-    Then I shuld see <result>
+    Then I should see <result>
 
     Scenarios: lets play rpsls
     | player_select | computer_select | result     |
