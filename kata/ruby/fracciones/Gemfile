@@ -1,0 +1,4 @@
+source :rubygems
+
+gem 'test-unit'
+gem 'rspec'
